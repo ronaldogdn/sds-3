@@ -6,6 +6,7 @@ no arquivo tsconfig.json
     "baseUrl": "./src",
 
 na pasta public criar o arquivo _redirects para redirecionar para o netlify
+instalar o bootstrap e popper
 
 
 
