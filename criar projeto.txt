@@ -7,6 +7,8 @@ no arquivo tsconfig.json
 
 na pasta public criar o arquivo _redirects para redirecionar para o netlify
 instalar o bootstrap e popper
+instalar o chart
+	yarn add apexcharts react-apexcharts
 
 
 
