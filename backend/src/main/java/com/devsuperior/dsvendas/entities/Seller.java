@@ -27,22 +27,22 @@ public class Seller {
 		return id;
 	}
 
-	public Seller(Long id, String nome) {
+	public Seller(Long id, String name) {
 		super();
 		this.id = id;
-		this.name = nome;
+		this.name = name;
 	}
 
 	public void setId(Long id) {
 		this.id = id;
 	}
 
-	public String getNome() {
+	public String getName() {
 		return name;
 	}
 
-	public void setNome(String nome) {
-		this.name = nome;
+	public void setName(String name) {
+		this.name = name;
 	}
 
 	public List<Sale> getSales() {
