@@ -2,6 +2,7 @@ npx create-react-app frontend --template typescript
 na pasta front criar o projeto com yarn start
 na pasta front apagar os arquivos logo* manifest robots app.test app.css index.css logo.svg reportweb stup.test
 no arquivo tsconfig.json
+	para não precisar ficar colocando ../pasta/pasta
 	"compilerOptions": {
     "baseUrl": "./src",
 
@@ -9,6 +10,10 @@ na pasta public criar o arquivo _redirects para redirecionar para o netlify
 instalar o bootstrap e popper
 instalar o chart
 	yarn add apexcharts react-apexcharts
+yarn add react-router-dom
+
+yarn add @types/react-router-dom -D
+
 
 
 
